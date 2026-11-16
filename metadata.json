@@ -1,0 +1,6 @@
+{
+  "name": "Aurelius Motors Nigeria | Luxury & Exotic Motorcars Lagos & Abuja",
+  "description": "Nigeria's premier luxury and exotic car dealership in Victoria Island Lagos & Maitama Abuja. Brand New & Certified Tokunbo foreign-used supercars, armored SUVs, with 100% genuine Customs Duty and WhatsApp negotiation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
